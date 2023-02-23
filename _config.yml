@@ -11,9 +11,9 @@ title                    : "Alison / Alison Tian's personal page"
 title_separator          : "-"
 name                     : &name "Alison Jiangyuan Tian"
 description              : &description "Alison Tian's personal page"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://AlisonTian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/AlisonTian.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "TJY/AlisonTian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
