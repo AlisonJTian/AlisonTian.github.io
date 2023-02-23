@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Name: Alison Tian 田江源
-Place of Birth: Wuhan, China
-Global Economics and Finance Student @the Chinese University of Hong Kong @ the University of Texas at Austin
-@ UChicago MPP Candidate
-Area(s) of interest: Energy Finance, Fixed Income, Macro
+Name: Alison Tian 田江源\
+Place of Birth: Wuhan, China\
+Global Economics and Finance Student @the Chinese University of Hong Kong @ the University of Texas at Austin\
+@ UChicago MPP Candidate\
+Area(s) of interest: Energy Finance, Fixed Income, Macro\
 Hobbies: Photography, Drawing, Figure skating, Hiking
 
 
